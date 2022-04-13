@@ -11,7 +11,7 @@ export default function Document() {
         <title>Dorr log</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <body>
+      <body className="font-poppins">
         <Main />
         <NextScript />
       </body>
